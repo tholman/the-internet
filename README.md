@@ -15,11 +15,11 @@ None really, but after installing, you'll have a literal ton of packages to deal
 
 ## FAQ
 
-### Why would I do this?
-It seemed like a good idea at the time.
-
 ### Whats all this about?
 Welp, `the-internet` depends upon around 2000 of the most "required" npm packages. Seemed fitting.
+
+### Why would I do this?
+It seemed like a good idea at the time.
 
 ### I just tried to install this. Why would you do this to me?
 I'm sorry.
