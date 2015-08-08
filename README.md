@@ -5,9 +5,13 @@ More or less, the internet. I probably wouldn't try to install this if I were yo
 ## Installation
 
     $ npm install the-internet
+    
+or
+    
+    $ npm install git://github.com/tholman/the-internet.git
 
 ## Usage
-None really, but after installing, you'll have a shitload of packages to deal with.
+None really, but after installing, you'll have a literal ton of packages to deal with.
 
 ## FAQ
 
