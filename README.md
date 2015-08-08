@@ -1,6 +1,6 @@
 # The Internet
 
-More or less, the internet. I probably wouldn't try to install this if I were you.
+More or less, the internet. I probably wouldn't try to install this if I were you. I guess if you were leaving the internet, or society behind it wouldn't hurt. But thats an edge case!
 
 ## Installation
 
