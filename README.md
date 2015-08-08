@@ -4,11 +4,11 @@ More or less, the internet. I probably wouldn't try to install this if I were yo
 
 ## Installation
 
-    $ npm install the-internet
-    
-or
-    
     $ npm install git://github.com/tholman/the-internet.git
+    
+Sadly, this can't exist on the npm registry... because, well.
+
+![they know whats up](https://i.imgur.com/cHa65jJ.png)
 
 ## Usage
 None really, but after installing, you'll have a literal ton of packages to deal with.
